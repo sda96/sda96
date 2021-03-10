@@ -28,11 +28,13 @@ Natural Language Processing (NLP) / Chatbot
   - 데이터 수집 목적의 라즈베리파이 카메라 환경 설정 및 모델 배포
   - 모델 issue 관리
   1) 같은 이미지라도 다른 환경으로 찍은 사진에서는 모델의 성능이 떨어지는 issue
-    - imgaug 패키지를 통해서 datagenerator 함수를 만듦.
+    - imgaug 패키지를 통해서 datagenerator 함수에 적용함.
     - 적용된 imgaug 효과는 gaussian blur(이미지 노이즈 제거), brightness(밝기 조절), contrast(대비 조절)
   2) 서로 비슷하게 생긴 2개의 object를 구분하지 못하는 issue
     - 학습 이미지에서 두 object가 가진 공통적인 부분을 제거 후 재학습
     - 기존 학습 모델에 Fine tuning을 하여 원하는 object를 찾게 만듬
+
+
 - R로 구현되어있는 islr 책 파이썬으로 내용 정리 (ch1 ~ ch6) 
 - 밑바닥 부터 시작하는 딥러닝 1권 내용 정리 (ch1 ~ ch7)
 - WCO 직원 대상 인공지능 교육자료 내용 검수(KNN, K-means)
