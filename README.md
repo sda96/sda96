@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Name : ChangHyun Park
 Now studing : Machine Learning / Deep Learning 
 Interesting study : Natural Language Processing (NLP) / Chatbot
