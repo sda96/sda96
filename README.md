@@ -36,8 +36,9 @@ Natural Language Processing (NLP) / Chatbot
 - R로 구현되어있는 islr 책 파이썬으로 내용 정리 (ch1 ~ ch6) 
 - 밑바닥 부터 시작하는 딥러닝 1권 내용 정리 (ch1 ~ ch7)
 - WCO 직원 대상 인공지능 교육자료 내용 검수(KNN, K-means)
-- 쿠버네티스 내부 강의 참여
-- DNN 내부 강의 참여
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sda96)](https://github.com/sda96/github-readme-stats)
 <!--
 **sda96/sda96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
