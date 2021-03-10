@@ -1,6 +1,8 @@
-Name : ChangHyun Park
-Now studing : Machine Learning / Deep Learning 
-Interesting study : Natural Language Processing (NLP) / Chatbot
+Name : ChangHyun Park  
+
+Now studing : Machine Learning / Deep Learning  
+
+Interesting study : Natural Language Processing (NLP) / Chatbot  
 
 Department:
 응용통계학과
