@@ -1,13 +1,16 @@
-Name : ChangHyun Park  
+### Name
+ChangHyun Park  
 
-Now studing : Machine Learning / Deep Learning  
+### Now studing
+Machine Learning / Deep Learning  
 
-Interesting study : Natural Language Processing (NLP) / Chatbot  
+### Interesting study
+Natural Language Processing (NLP) / Chatbot  
 
-Department:
+### Department
 응용통계학과
 
-Career :
+### Career
 1. 데이터 분석 준전문가(Adsp) 자격증 취득
 
 2. (주) 데이터에듀 기업 현장실습 1개월 
