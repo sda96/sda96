@@ -14,7 +14,7 @@ Natural Language Processing (NLP) / Chatbot
 1. 데이터 분석 준전문가(Adsp) 자격증 취득
 
 2. (주) 데이터에듀 기업 현장실습 1개월 
-- 점프 투 파이썬 독학
+- [점프 투 파이썬 독학](https://github.com/sda96/Summary_note/tree/master/Python)
 - 파이썬의 Selenium 패키지를 활용한 데이터 크롤링(bigkinds)
 
 3. 데이터 청년 캠퍼스 동국대학교 과정 이수
