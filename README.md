@@ -19,8 +19,8 @@ Natural Language Processing / Computer Vision
 
 3. 데이터 청년 캠퍼스 동국대학교 과정 이수
 
-4. 데이터 청년 캠퍼스 동국대학교내 경진대회 2등 수상
-- 환자 증상을 통한 연관 질병 추천 웹 서비스 개발
+4. 데이터 청년 캠퍼스 동국대학교내 경진대회 장려상 수상
+- [환자 증상을 통한 연관 질병 추천 웹 서비스 개발](https://github.com/sda96/Summary_note/tree/master/data_campus)
 
 5. (주) 퍼블릭에이아이 AI개발자 인턴 6개월 
 - 고등학교 대상 인공지능 교육 프로젝트 참여(github 사용)
@@ -35,9 +35,9 @@ Natural Language Processing / Computer Vision
     - 기존 학습 모델에 Fine tuning을 하여 원하는 object를 찾게 만듬
 
 
-- R로 구현되어있는 islr 책 파이썬으로 내용 정리 (ch1 ~ ch6) 
-- 밑바닥 부터 시작하는 딥러닝 1권 내용 정리 (ch1 ~ ch7)
-- WCO 직원 대상 인공지능 교육자료 내용 검수(KNN, K-means)
+- [R로 구현되어있는 islr 책 파이썬으로 내용 정리 (ch1 ~ ch6)](https://github.com/sda96/Summary_note/tree/master/ML/ISLP)
+- [밑바닥 부터 시작하는 딥러닝 1권 내용 정리 (ch1 ~ ch7)](https://github.com/sda96/Summary_note/tree/master/DL/Deep_Learning_from_scratch)
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sda96)](https://github.com/sda96/github-readme-stats)
