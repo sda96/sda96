@@ -5,7 +5,7 @@ ChangHyun Park
 Machine Learning / Deep Learning  
 
 ### Interesting study
-Natural Language Processing (NLP) / Chatbot  
+Natural Language Processing / Computer Vision  
 
 ### Department
 응용통계학과
