@@ -2,7 +2,7 @@
 ChangHyun Park  
 
 ### Now studing
-Machine Learning / Deep Learning  
+Machine Learning / Deep Learning  / Coding
 
 ### Interesting study
 Natural Language Processing / Computer Vision  
