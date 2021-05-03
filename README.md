@@ -34,7 +34,7 @@ Natural Language Processing / Computer Vision
     - 학습 이미지에서 두 object가 가진 공통적인 부분을 제거 후 재학습
     - 기존 학습 모델에 Fine tuning을 하여 원하는 object를 찾게 만듬
 
-#### Project
+### Project
 - [데이터 분석](https://github.com/sda96/Summary_note/tree/master/Data_analysis)
 - [머신러닝](https://github.com/sda96/Summary_note/tree/master/ML)
 - [딥러닝](https://github.com/sda96/Summary_note/tree/master/DL)
