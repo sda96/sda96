@@ -36,8 +36,8 @@ Natural Language Processing / Computer Vision
 
 #### Project
 - [데이터 분석](https://github.com/sda96/Summary_note/tree/master/Data_analysis)
-- [머신러닝](https://github.com/sda96/Summary_note/tree/master/ML/ISLP)
-- [딥러닝](https://github.com/sda96/Summary_note/tree/master/DL/Deep_Learning_from_scratch)
+- [머신러닝](https://github.com/sda96/Summary_note/tree/master/ML)
+- [딥러닝](https://github.com/sda96/Summary_note/tree/master/DL)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sda96)](https://github.com/sda96/github-readme-stats)
 <!--
