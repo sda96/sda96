@@ -34,11 +34,10 @@ Natural Language Processing / Computer Vision
     - 학습 이미지에서 두 object가 가진 공통적인 부분을 제거 후 재학습
     - 기존 학습 모델에 Fine tuning을 하여 원하는 object를 찾게 만듬
 
-
-- [R로 구현되어있는 islr 책 파이썬으로 내용 정리 (ch1 ~ ch6)](https://github.com/sda96/Summary_note/tree/master/ML/ISLP)
-- [밑바닥 부터 시작하는 딥러닝 1권 내용 정리 (ch1 ~ ch7)](https://github.com/sda96/Summary_note/tree/master/DL/Deep_Learning_from_scratch)
-
-
+#### Project
+- [데이터 분석](https://github.com/sda96/Summary_note/tree/master/Data_analysis)
+- [머신러닝](https://github.com/sda96/Summary_note/tree/master/ML/ISLP)
+- [딥러닝](https://github.com/sda96/Summary_note/tree/master/DL/Deep_Learning_from_scratch)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sda96)](https://github.com/sda96/github-readme-stats)
 <!--
