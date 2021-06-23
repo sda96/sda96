@@ -1,5 +1,6 @@
 # 개인 소개
 <img src="https://imgur.com/xCO1ibb.jpg">
+
 안녕하세요.
 
 공부한 내용을 기반으로 일상 생활과 산업에 어떻게 딥러닝을 적용 시킬지 고민하고  
@@ -18,7 +19,7 @@ e-mail  : sda96@naver.com
 
 # 사용 기술
 
-<img src="https://imgur.com/MwBwe72.jpg">
+<img src="https://imgur.com/MwBwe72.jpg" height="300">
 
 ##
 
@@ -54,7 +55,7 @@ e-mail  : sda96@naver.com
 5. (주) 퍼블릭에이아이 AI개발자 인턴 6개월 (2020.09.01 ~ 2021.02.28)
 - 고등학생 대상 인공지능 교육용 모델 개발 프로젝트 참여  
  
-<img src="https://imgur.com/LeKZjtV.jpg" width="500" height="400">
+<img src="https://imgur.com/LeKZjtV.jpg" width="600" height="600">
 
   - Tensorflow 패키지를 활용하여 월리를 찾는 object detection 모델 구현 참여
   - 데이터 수집 목적의 라즈베리파이 카메라 환경 설정 및 모델 배포
@@ -71,6 +72,10 @@ e-mail  : sda96@naver.com
 - 교사와 학생 프로젝트 실습환경 구축 및 가이드 작성 (Azure Lab Services)
 
 ##
+
+  
+  
+
 
 # 자기 소개
 
