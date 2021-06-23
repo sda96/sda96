@@ -1,8 +1,8 @@
 # Intro
 <img src="https://imgur.com/xCO1ibb.jpg">
 안녕하세요.  
-빅데이터를 활용하여 제품이나 서비스를 만드는 기술인 인공지능에 매력을 느껴 인공지능을 공부하였고,  
-인턴을 하였습니다. 모두를 인공지능을 개발하는 꿈꾸는 인공지능 개발자 박창현입니다!  
+공부한 내용을 기반으로 일상 생활과 산업에 어떻게 딥러닝을 적용 시킬지 고민하고 최신 딥러닝 트렌드를 이해하고 발전하려고 노력하는  
+신입 인공지능 개발자, 박창현입니다!
 
 ## 
 전화번호 : 010-9270-3748  
@@ -28,6 +28,8 @@ e-mail  : sda96@naver.com
 **딥러닝**
 - [밑바닥 부터 시작하는 딥러닝 1권 내용 정리](https://github.com/sda96/Summary_note/tree/master/DL/Deep_Learning_from_scratch) (2021.01.01 ~ 2021.02.28)
 - [핸즈온 머신러닝 2부 딥러닝 파트 내용 정리](https://github.com/sda96/Summary_note/tree/master/DL/Hands_on_Machine_learning_part2) (2021.03.01 ~ 진행중)
+- [네이버 커넥트 재반 부스트 코스 AI- tech 2기 pre-course]((https://github.com/sda96/pre-boostcamp)) (2021.06.01 ~ 2021.06.23)
+
 
 # Career
 1. 데이터 분석 준전문가(Adsp) 자격증 취득 (2018.06 ~ 2018.08)
