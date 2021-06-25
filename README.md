@@ -55,21 +55,30 @@
 # 경력
 
 - (주) 데이터에듀 기업 현장실습 1개월 (2019.07.22 ~ 2019.08.16)
-  - 사용 기술 : Python 3.x, Selenium
-  - 수행 역할 : Selenium 패키지를 활용한 raw text data 수집
-  - [점프 투 파이썬 독학](https://github.com/sda96/Summary_note/tree/master/Python)
-  - 파이썬의 Selenium 패키지를 활용한 빅카인즈 사이트 데이터 스크랩핑
+  - 사용 기술 : 
+    -  Python 3.x, Selenium
+  - 프로젝트 소개:
+    - 언어모델 구축을 위한 text data 수집
+    - 파이썬 관련 내용 정리 : [점프 투 파이썬 독학](https://github.com/sda96/Summary_note/tree/master/Python)
+    - 파이썬의 Selenium 패키지를 활용한 빅카인즈 사이트 데이터 스크랩핑
+  - 수행 역할 : 
+    - Selenium 패키지를 활용한 raw text data 수집
 
 - 데이터 청년 캠퍼스 동국대학교내 경진대회 장려상 수상
-  - 사용 기술 : Python 3.x, sklearn
-  - 수행 역할 : BM25 알고리즘을 활용한 모델 구축 및 모델 최적화
-  - [환자 증상을 통한 연관 질병 추천 웹 서비스 개발](https://github.com/sda96/Summary_note/tree/master/Data_campus)
+  - 사용 기술 : 
+    - Python 3.x, sklearn
+  - 프로젝트 소개:   
+    - [환자 증상을 통한 연관 질병 추천 웹 서비스 개발](https://github.com/sda96/Summary_note/tree/master/Data_campus)
+  - 수행 역할 : 
+    -  BM25 알고리즘을 활용한 모델 구축 및 모델 최적화
 
 - (주) 퍼블릭에이아이 AI개발자 인턴 6개월 (2020.09.01 ~ 2021.02.28)
-  - 고등학생 대상 인공지능 교육용 모델 개발 프로젝트 참여  
-    - 사용 기술 : Python 3.x, Tensorflow 2.x
-    - Tensorflow 패키지를 활용하여 월리를 찾는 object detection 모델 구현 참여
-    - 데이터 수집 목적의 라즈베리파이 카메라 환경 설정 및 모델 배포
+    - 사용 기술 : 
+      - Python 3.x, Tensorflow 2.x
+    - 프로젝트 소개:
+      - 고등학생 대상 인공지능 교육용 모델 개발 프로젝트 참여  
+      - Tensorflow 패키지를 활용하여 월리를 찾는 object detection 모델 구현 참여
+      - 데이터 수집 목적의 라즈베리파이 카메라 환경 설정 및 모델 배포
     - 수행 역할 :
        - 모델 issue 관리
          - 같은 이미지라도 다른 환경으로 찍은 사진에서는 모델의 성능이 떨어지는 issue
@@ -77,16 +86,14 @@
            - 적용된 imgaug 효과는 gaussian blur(이미지 노이즈 제거), brightness(밝기 조절), contrast(대비 조절)
          - 서로 비슷하게 생긴 2개의 object를 구분하지 못하는 issue
            - 기존 학습 데이터에 공통점을 제거하여 차이점에 주목하는 모델을 만들어 원하는 object를 찾게 만듬
-  - 교사와 학생 프로젝트 실습환경 구축 및 가이드 작성 (Azure Lab Services)
-    - 사용 기술 : Azure Portal(Azure Lab Services)
-    - 수행 역할 : 교사들도 학생들의 실습환경을 조율할 수 있도록 사용 가이드 문서화 작업 수행
+  
+    - 사용 기술 : Azure Portal(Azure Lab Services), PowerPoint(ppt)
+    - 수행 역할 : 
+      - 교사와 학생 프로젝트 실습환경 구축 및 가이드 작성 (Azure Lab Services)
   - 프로젝트 진행 과정
   <img src="https://imgur.com/LeKZjtV.jpg" width="600" height="600">
+
 ##
-
-  
-  
-
 
 # 자기 소개
 
