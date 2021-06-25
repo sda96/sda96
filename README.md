@@ -7,17 +7,17 @@
 최신 딥러닝 트렌드를 이해하고 발전하려고 노력하고 있습니다!
 
 컴퓨터 비전 분야는 딥러닝 교육 스타트업인 퍼블릭에이아이에서 Object Dectection 프로젝트에 참여해보았고,  
-자연어 처리 분야는 '문장단위 증상명 입력을 통한 관련 의료문서 출력 웹서비스'를 만든 경험이 잇습니다
+자연어 처리 분야는 '문장단위 증상명 입력을 통한 관련 의료문서 출력 웹서비스'를 만든 경험이 있습니다
 
 ##
 
-전화번호 : 010-9270-3748  
-관심분야 : 딥러닝, 컴퓨터 비전, 자연어 처리  
-github  : https://github.com/sda96  
-e-mail  : sda96@naver.com  
-학교    : 동국대학교 경주캠퍼스  
-전공    : 응용통계학과  
-병역여부 : 군필  
+- 전화번호 : 010-9270-3748  
+- 관심분야 : 딥러닝, 컴퓨터 비전, 자연어 처리  
+- github  : https://github.com/sda96  
+- e-mail  : sda96@naver.com  
+- 학교    : 동국대학교 경주캠퍼스  
+- 전공    : 응용통계학과  
+- 병역여부 : 군필  
 
 ##
 
@@ -46,7 +46,7 @@ e-mail  : sda96@naver.com
 
 # 교육 및 자격증
 - 데이터 분석 준전문가(Adsp) 자격증 취득 (2018.06 ~ 2018.08)
-- 데이터 청년 캠퍼스 동국대학교 과정 이수 (2020.06.22 ~ 2020.09.01)
+- 한국데이터산업진흥원 주관 데이터 청년 캠퍼스 프로그램 동국대학교 과정 이수 (2020.06.22 ~ 2020.09.01)
 - [네이버 커넥트 재단 부스트 코스 AI- tech 2기 pre-course](https://github.com/sda96/pre-boostcamp) (2021.06.01 ~ 2021.06.23)
 ##
 
@@ -55,26 +55,33 @@ e-mail  : sda96@naver.com
 # 경력
 
 - (주) 데이터에듀 기업 현장실습 1개월 (2019.07.22 ~ 2019.08.16)
+  - 사용 기술 : Python 3.x, Selenium
+  - 수행 역할 : Selenium 패키지를 활용한 raw text data 수집
   - [점프 투 파이썬 독학](https://github.com/sda96/Summary_note/tree/master/Python)
   - 파이썬의 Selenium 패키지를 활용한 빅카인즈 사이트 데이터 스크랩핑
 
 - 데이터 청년 캠퍼스 동국대학교내 경진대회 장려상 수상
+  - 사용 기술 : Python 3.x, sklearn
+  - 수행 역할 : BM25 알고리즘을 활용한 모델 구축 및 모델 최적화
   - [환자 증상을 통한 연관 질병 추천 웹 서비스 개발](https://github.com/sda96/Summary_note/tree/master/Data_campus)
 
 - (주) 퍼블릭에이아이 AI개발자 인턴 6개월 (2020.09.01 ~ 2021.02.28)
   - 고등학생 대상 인공지능 교육용 모델 개발 프로젝트 참여  
+    - 사용 기술 : Python 3.x, Tensorflow 2.x
     - Tensorflow 패키지를 활용하여 월리를 찾는 object detection 모델 구현 참여
     - 데이터 수집 목적의 라즈베리파이 카메라 환경 설정 및 모델 배포
-   - 모델 issue 관리
-     - 같은 이미지라도 다른 환경으로 찍은 사진에서는 모델의 성능이 떨어지는 issue
-       - imgaug 패키지를 통해서 다양한 효과가 적용된 훈련 데이터 생성
-       - 적용된 imgaug 효과는 gaussian blur(이미지 노이즈 제거), brightness(밝기 조절), contrast(대비 조절)
-     - 서로 비슷하게 생긴 2개의 object를 구분하지 못하는 issue
-       - 기존 학습 데이터에 공통점을 제거하여 차이점에 주목하는 모델을 만들어 원하는 object를 찾게 만듬
-<img src="https://imgur.com/LeKZjtV.jpg" width="600" height="600">
-
+    - 수행 역할 :
+       - 모델 issue 관리
+         - 같은 이미지라도 다른 환경으로 찍은 사진에서는 모델의 성능이 떨어지는 issue
+           - imgaug 패키지를 통해서 다양한 효과가 적용된 훈련 데이터 생성
+           - 적용된 imgaug 효과는 gaussian blur(이미지 노이즈 제거), brightness(밝기 조절), contrast(대비 조절)
+         - 서로 비슷하게 생긴 2개의 object를 구분하지 못하는 issue
+           - 기존 학습 데이터에 공통점을 제거하여 차이점에 주목하는 모델을 만들어 원하는 object를 찾게 만듬
   - 교사와 학생 프로젝트 실습환경 구축 및 가이드 작성 (Azure Lab Services)
-
+    - 사용 기술 : Azure Portal(Azure Lab Services)
+    - 수행 역할 : 교사들도 학생들의 실습환경을 조율할 수 있도록 사용 가이드 문서화 작업 수행
+  - 프로젝트 진행 과정
+  <img src="https://imgur.com/LeKZjtV.jpg" width="600" height="600">
 ##
 
   
