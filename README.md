@@ -1,11 +1,13 @@
 # 개인 소개
 <img src="https://imgur.com/xCO1ibb.jpg">
 
-안녕하세요.
+안녕하세요. 신입 인공지능 개발자, 박창현입니다!
 
 공부한 내용을 기반으로 일상 생활과 산업에 어떻게 딥러닝을 적용 시킬지 고민하고  
-최신 딥러닝 트렌드를 이해하고 발전하려고 노력하는  
-신입 인공지능 개발자, 박창현입니다!
+최신 딥러닝 트렌드를 이해하고 발전하려고 노력하고 있습니다!
+
+컴퓨터 비전 분야는 딥러닝 교육 스타트업인 퍼블릭에이아이에서 Object Dectection 프로젝트에 참여해보았고,  
+자연어 처리 분야는 '문장단위 증상명 입력을 통한 관련 의료문서 출력 웹서비스'를 만든 경험이 잇습니다
 
 ##
 
@@ -13,7 +15,9 @@
 관심분야 : 딥러닝, 컴퓨터 비전, 자연어 처리  
 github  : https://github.com/sda96  
 e-mail  : sda96@naver.com  
+학교    : 동국대학교 경주캠퍼스  
 전공    : 응용통계학과  
+병역여부 : 군필  
 
 ##
 
@@ -36,40 +40,40 @@ e-mail  : sda96@naver.com
 **딥러닝**
 - [밑바닥 부터 시작하는 딥러닝 1권 내용 정리](https://github.com/sda96/Summary_note/tree/master/DL/Deep_Learning_from_scratch) (2021.01.01 ~ 2021.02.28)
 - [핸즈온 머신러닝 2부 딥러닝 파트 내용 정리](https://github.com/sda96/Summary_note/tree/master/DL/Hands_on_Machine_learning_part2) (2021.03.01 ~ 진행중)
-- [네이버 커넥트 재단 부스트 코스 AI- tech 2기 pre-course](https://github.com/sda96/pre-boostcamp) (2021.06.01 ~ 2021.06.23)
+
 
 ##
 
+# 교육 및 자격증
+- 데이터 분석 준전문가(Adsp) 자격증 취득 (2018.06 ~ 2018.08)
+- 데이터 청년 캠퍼스 동국대학교 과정 이수 (2020.06.22 ~ 2020.09.01)
+- [네이버 커넥트 재단 부스트 코스 AI- tech 2기 pre-course](https://github.com/sda96/pre-boostcamp) (2021.06.01 ~ 2021.06.23)
+##
+
+
+
 # 경력
-1. 데이터 분석 준전문가(Adsp) 자격증 취득 (2018.06 ~ 2018.08)
 
-2. (주) 데이터에듀 기업 현장실습 1개월 (2019.07.22 ~ 2019.08.16)
-- [점프 투 파이썬 독학](https://github.com/sda96/Summary_note/tree/master/Python)
-- 파이썬의 Selenium 패키지를 활용한 빅카인즈 사이트 데이터 스크랩핑
+- (주) 데이터에듀 기업 현장실습 1개월 (2019.07.22 ~ 2019.08.16)
+  - [점프 투 파이썬 독학](https://github.com/sda96/Summary_note/tree/master/Python)
+  - 파이썬의 Selenium 패키지를 활용한 빅카인즈 사이트 데이터 스크랩핑
 
-3. 데이터 청년 캠퍼스 동국대학교 과정 이수 (2020.06.22 ~ 2020.09.01)
+- 데이터 청년 캠퍼스 동국대학교내 경진대회 장려상 수상
+  - [환자 증상을 통한 연관 질병 추천 웹 서비스 개발](https://github.com/sda96/Summary_note/tree/master/Data_campus)
 
-4. 데이터 청년 캠퍼스 동국대학교내 경진대회 장려상 수상
-- [환자 증상을 통한 연관 질병 추천 웹 서비스 개발](https://github.com/sda96/Summary_note/tree/master/data_campus)
-
-5. (주) 퍼블릭에이아이 AI개발자 인턴 6개월 (2020.09.01 ~ 2021.02.28)
-- 고등학생 대상 인공지능 교육용 모델 개발 프로젝트 참여  
- 
+- (주) 퍼블릭에이아이 AI개발자 인턴 6개월 (2020.09.01 ~ 2021.02.28)
+  - 고등학생 대상 인공지능 교육용 모델 개발 프로젝트 참여  
+    - Tensorflow 패키지를 활용하여 월리를 찾는 object detection 모델 구현 참여
+    - 데이터 수집 목적의 라즈베리파이 카메라 환경 설정 및 모델 배포
+   - 모델 issue 관리
+     - 같은 이미지라도 다른 환경으로 찍은 사진에서는 모델의 성능이 떨어지는 issue
+       - imgaug 패키지를 통해서 다양한 효과가 적용된 훈련 데이터 생성
+       - 적용된 imgaug 효과는 gaussian blur(이미지 노이즈 제거), brightness(밝기 조절), contrast(대비 조절)
+     - 서로 비슷하게 생긴 2개의 object를 구분하지 못하는 issue
+       - 기존 학습 데이터에 공통점을 제거하여 차이점에 주목하는 모델을 만들어 원하는 object를 찾게 만듬
 <img src="https://imgur.com/LeKZjtV.jpg" width="600" height="600">
 
-  - Tensorflow 패키지를 활용하여 월리를 찾는 object detection 모델 구현 참여
-  - 데이터 수집 목적의 라즈베리파이 카메라 환경 설정 및 모델 배포
-
-
-  - 모델 issue 관리
-  1) 같은 이미지라도 다른 환경으로 찍은 사진에서는 모델의 성능이 떨어지는 issue
-    - imgaug 패키지를 통해서 다양한 효과가 적용된 훈련 데이터 생성
-    - 적용된 imgaug 효과는 gaussian blur(이미지 노이즈 제거), brightness(밝기 조절), contrast(대비 조절)
-
-  2) 서로 비슷하게 생긴 2개의 object를 구분하지 못하는 issue
-    - 기존 학습 데이터에 공통점을 제거하여 차이점에 주목하는 모델을 만들어 원하는 object를 찾게 만듬
-
-- 교사와 학생 프로젝트 실습환경 구축 및 가이드 작성 (Azure Lab Services)
+  - 교사와 학생 프로젝트 실습환경 구축 및 가이드 작성 (Azure Lab Services)
 
 ##
 
