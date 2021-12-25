@@ -5,9 +5,9 @@
 
 
 어떻게 하면 보다 자연스럽게 대화하고 사람과 같이 공감할 수 있는 오픈 도메인형의 챗봇을 만들 수 있을까 고민하고, 
-최종 목표로는 사람과 자연스러운 상호작용이 가능한 게임 NPC의 두뇌가 되는 챗봇를 만들고 싶습니다.
-이러한 챗봇을 만들기 위해서 현재 자연어 처리 분야(NLP)를 공부하고 있습니다.
+최종 목표로는 사람과 감정적으로 상호작용이 가능한 게임 NPC의 두뇌가 되는 챗봇를 만들고 싶습니다.
 
+이러한 챗봇을 만들기 위해서 현재 자연어 처리 분야(NLP)를 공부하고 있습니다.
 
 딥러닝 프로젝트 경험은 딥러닝 교육 스타트업인 퍼블릭에이아이에서 Object Dectection 프로젝트에 참여해보았고,  
 '문장단위 증상명 입력을 통한 관련 의료문서 출력 웹서비스'를 만든 경험이 있습니다
@@ -43,7 +43,7 @@
 - **[ISLR ch1~ ch6까지 파이썬으로 내용정리](https://github.com/sda96/Summary_note/tree/master/ML/ISLP) (2020.10.01 ~ 2020.11.15)**
 
 **딥러닝**
-- **[핸즈온 머신러닝 2부 딥러닝 파트 내용 정리](https://github.com/sda96/Summary_note/tree/master/DL/Hands_on_Machine_learning_part2) (2021.03.01 ~ 진행중)**
+- **[핸즈온 머신러닝 2부 딥러닝 파트 내용 정리](https://github.com/sda96/Summary_note/tree/master/DL/Hands_on_Machine_learning_part2) (2021.03.01 ~ 중단됨)**
 - **[밑바닥 부터 시작하는 딥러닝 1권 내용 정리](https://github.com/sda96/Summary_note/tree/master/DL/Deep_Learning_from_scratch) (2021.01.01 ~ 2021.02.28)**
 
 
