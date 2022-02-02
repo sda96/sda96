@@ -8,7 +8,7 @@ My major was statistics and now study deep learning
 I want to develop a game NPC who conversation naturally with player.  
 So, i interested in natural language processing and chatbot.
 
-#### If you want to know more detail about me, please click this [CV]()
+#### If you want to know more detail about me, please click this [CV](https://github.com/sda96/sda96/blob/main/CV.pdf)
 #### You can also contact me by 📫 sda96@naver.com
 
 
