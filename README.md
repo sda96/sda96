@@ -3,7 +3,7 @@
 Hi!:sunny: My name is ChangHyun Park.:smile:
 
 I'm graduated Dongguck University in Gyeongju.  
-My major was statistics and now study deep learning
+My major was statistics and now i'm studing Deep Learning.
 
 I want to develop a game NPC who naturally co with player.  
 So, i interested in natural language processing and chatbot.
