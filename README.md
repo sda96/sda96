@@ -5,7 +5,7 @@ Hi!:sunny: My name is ChangHyun Park.:smile:
 I'm graduated Dongguck University in Gyeongju.  
 My major was statistics and now i'm studing Deep Learning.
 
-I want to develop a game NPC who naturally co with player.  
+I want to develop a game NPC who naturally co-op with player.  
 So, i interested in natural language processing and chatbot.
 
 #### If you want to know more detail about me, please click this [CV](https://github.com/sda96/sda96/blob/main/CV.pdf)
