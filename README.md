@@ -2,7 +2,7 @@
 
 Hi!:sunny: My name is ChangHyun Park.:smile:
 
-#### If you want to know more detail about me, please click this [CV](https://github.com/sda96/sda96/blob/main/CV.pdf)
+#### If you want to know more detail about me, please click this [CV](https://github.com/sda96/sda96/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C_%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C_%EB%B0%95%EC%B0%BD%ED%98%84.pdf)
 #### You can also contact me by 📫 sda96@naver.com
 
 
